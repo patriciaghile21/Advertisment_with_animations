@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Jul  9 15:50:20 2024
+# Process ID: 8576
+# Current directory: C:/dsd/reclama_pico/pico.srcs/utils_1/imports/synth_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5996 C:\dsd\reclama_pico\pico.srcs\utils_1\imports\synth_1\PICO_RECLAMA.dcp
+# Log file: C:/dsd/reclama_pico/pico.srcs/utils_1/imports/synth_1/vivado.log
+# Journal file: C:/dsd/reclama_pico/pico.srcs/utils_1/imports/synth_1\vivado.jou
+# Running On: DESKTOP-3L0O9A2, OS: Windows, CPU Frequency: 2895 MHz, CPU Physical cores: 16, Host memory: 7947 MB
+#-----------------------------------------------------------
+ststart_guopopen_checkpoint C:/dsd/reclama_pico/pico.srcs/utils_1/imports/synth_1/PICO_RECLAMA.dcp

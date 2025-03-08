@@ -1,0 +1,30 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../BIT15CTR.vhd" \
+"../../../../../COMMAND_UNIT.vhd" \
+"../../../../../DATADCD.vhd" \
+"../../../../../DATAMUX5BIT41.vhd" \
+"../../../../../DATASELMUX.vhd" \
+"../../../../../DIVFRQN_1HZ.vhd" \
+"../../../../../DIVFRQN_4HZ.vhd" \
+"../../../../../DIVFRQN_8HZ.vhd" \
+"../../../../../EXECUTION_UNIT.vhd" \
+"../../../../../MODECNT_0.vhd" \
+"../../../../../MODECNT_1.vhd" \
+"../../../../../MODECNT_2.vhd" \
+"../../../../../MODECNT_3.vhd" \
+"../../../../../MODEDEC_0.vhd" \
+"../../../../../MODEDEC_1.vhd" \
+"../../../../../MODEDEC_2.vhd" \
+"../../../../../MODEDEC_3.vhd" \
+"../../../../../MODESELDMUX.vhd" \
+"../../../../../MODE_0.vhd" \
+"../../../../../MODE_1.vhd" \
+"../../../../../MODE_2.vhd" \
+"../../../../../MODE_3.vhd" \
+"../../../../../MODE_4.vhd" \
+"../../../../../MUXSEL4BIT.vhd" \
+"../../../../../PICO_RECLAMA.vhd" \
+
+# Do not sort compile order
+nosort

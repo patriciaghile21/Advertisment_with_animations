@@ -1,0 +1,50 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/BIT15CTR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BIT15CNTR'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/COMMAND_UNIT.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'COMMAND_UNIT'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/DATADCD.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DATADCD'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/DATAMUX5BIT41.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DATAMUX5BIT41'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/DATASELMUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DATASELMUX'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/DIVFRQN_1HZ.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DIVFRQN_1HZ'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/DIVFRQN_4HZ.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DIVFRQN_4HZ'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/DIVFRQN_8HZ.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DIVFRQN_8HZ'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/EXECUTION_UNIT.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'EXECUTION_UNIT'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODECNT_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODECNT_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODECNT_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODECNT_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODECNT_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODECNT_2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODECNT_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODECNT_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODEDEC_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODEDEC_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODEDEC_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODEDEC_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODEDEC_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODEDEC_2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODEDEC_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODEDEC_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODESELDMUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODESELDMUX'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODE_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODE_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODE_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODE_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODE_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODE_2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODE_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODE_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MODE_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MODE_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/MUXSEL4BIT.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MUXSEL4BIT'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/dsd/PICO_RECLAMA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PICO_RECLAMA'

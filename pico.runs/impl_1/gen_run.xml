@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1720390651">
+  <File Type="ROUTE-PWR" Name="PICO_RECLAMA_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="PICO_RECLAMA.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="PICO_RECLAMA_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="PICO_RECLAMA_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="PICO_RECLAMA.msk"/>
+  <File Type="ROUTE-CLK" Name="PICO_RECLAMA_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="PICO_RECLAMA.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="PICO_RECLAMA_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="PICO_RECLAMA.bit"/>
+  <File Type="BG-DRC" Name="PICO_RECLAMA.drc"/>
+  <File Type="BG-BGN" Name="PICO_RECLAMA.bgn"/>
+  <File Type="BG-BIN" Name="PICO_RECLAMA.bin"/>
+  <File Type="BITSTR-RBT" Name="PICO_RECLAMA.rbt"/>
+  <File Type="BITSTR-NKY" Name="PICO_RECLAMA.nky"/>
+  <File Type="BITSTR-BMM" Name="PICO_RECLAMA_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="PICO_RECLAMA.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="PICO_RECLAMA_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="PICO_RECLAMA.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="PICO_RECLAMA.ltx"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-DRC" Name="PICO_RECLAMA_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="PICO_RECLAMA.hwdef"/>
+  <File Type="PLACE-IO" Name="PICO_RECLAMA_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="PICO_RECLAMA_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="PICO_RECLAMA_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="PICO_RECLAMA_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="PICO_RECLAMA_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="PICO_RECLAMA_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="PICO_RECLAMA_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="PICO_RECLAMA_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="PICO_RECLAMA_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="PICO_RECLAMA_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="PICO_RECLAMA_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="PICO_RECLAMA_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="PICO_RECLAMA_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="PICO_RECLAMA_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="PICO_RECLAMA_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="PICO_RECLAMA_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="PICO_RECLAMA_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="PICO_RECLAMA_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="PICO_RECLAMA_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="PICO_RECLAMA_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="PICO_RECLAMA_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="PICO_RECLAMA_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="PICO_RECLAMA_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="PICO_RECLAMA_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="PICO_RECLAMA_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="PICO_RECLAMA_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="PICO_RECLAMA_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="PICO_RECLAMA_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="PICO_RECLAMA_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="PICO_RECLAMA_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="PICO_RECLAMA_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="PICO_RECLAMA_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="PICO_RECLAMA_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="PICO_RECLAMA_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="PICO_RECLAMA_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="PICO_RECLAMA.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="PICO_RECLAMA_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="PICO_RECLAMA_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="PICO_RECLAMA.rcfi"/>
+  <File Type="CFI_FILE" Name="PICO_RECLAMA.cfi"/>
+  <File Type="RNPI_FILE" Name="PICO_RECLAMA.rnpi"/>
+  <File Type="NPI_FILE" Name="PICO_RECLAMA.npi"/>
+  <File Type="RBD_FILE" Name="PICO_RECLAMA.rbd"/>
+  <File Type="ROUTE-RQS" Name="PICO_RECLAMA_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="PICO_RECLAMA_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../BIT15CTR.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../COMMAND_UNIT.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../DATADCD.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../DATAMUX5BIT41.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../DATASELMUX.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../DIVFRQN_1HZ.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../DIVFRQN_4HZ.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../DIVFRQN_8HZ.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../EXECUTION_UNIT.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODECNT_0.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODECNT_1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODECNT_2.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODECNT_3.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODEDEC_0.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODEDEC_1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODEDEC_2.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODEDEC_3.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODESELDMUX.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODE_0.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODE_1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODE_2.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODE_3.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MODE_4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MUXSEL4BIT.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../PICO_RECLAMA.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="PICO_RECLAMA"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/constr.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/PICO_RECLAMA.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

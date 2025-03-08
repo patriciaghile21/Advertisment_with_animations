@@ -1,0 +1,41 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot PICO_RECLAMA_behav xil_defaultlib.PICO_RECLAMA -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.MODESELDMUX [modeseldmux_default]
+Compiling architecture behavioral of entity xil_defaultlib.COMMAND_UNIT [command_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.DIVFRQN_1HZ [divfrqn_1hz_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODECNT_0 [modecnt_0_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODEDEC_0 [modedec_0_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODE_0 [mode_0_default]
+Compiling architecture behavioral of entity xil_defaultlib.DIVFRQN_4HZ [divfrqn_4hz_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODECNT_1 [modecnt_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODEDEC_1 [modedec_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODE_1 [mode_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODECNT_2 [modecnt_2_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODEDEC_2 [modedec_2_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODE_2 [mode_2_default]
+Compiling architecture behavioral of entity xil_defaultlib.DIVFRQN_8HZ [divfrqn_8hz_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODECNT_3 [modecnt_3_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODEDEC_3 [modedec_3_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODE_3 [mode_3_default]
+Compiling architecture behavioral of entity xil_defaultlib.MODE_4 [mode_4_default]
+Compiling architecture behavioral of entity xil_defaultlib.DATADCD [datadcd_default]
+Compiling architecture behavioral of entity xil_defaultlib.DATAMUX5BIT41 [datamux5bit41_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUXSEL4BIT [muxsel4bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.BIT15CNTR [bit15cntr_default]
+Compiling architecture behavioral of entity xil_defaultlib.DATASELMUX [dataselmux_default]
+Compiling architecture behavioral of entity xil_defaultlib.EXECUTION_UNIT [execution_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.pico_reclama
+Built simulation snapshot PICO_RECLAMA_behav

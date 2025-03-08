@@ -14,7 +14,9 @@ Examples of operating modes:
 
 Because not all letters can be represented on a 7-segment display, a maximum alphabet will be created, and the messages will be composed of symbols from this alphabet. The message will be stored in memory for easy changes.
 
-## Control Inputs
+## User Manual
+
+### Control Inputs
 
 - **SWITCH**: Selects the animation mode. It is a 3-bit signal where:
   - `000`: Blinking
@@ -23,7 +25,7 @@ Because not all letters can be represented on a 7-segment display, a maximum alp
   - `011`: Symbols loading
   - `100-111`: Static mode
 
-## Outputs
+### Outputs
 
 - **cathod**: Controls which parts of the active segment are lit on the SSD (7-segment display).
 - **anod**: Controls on which SSD the text will appear (which segment is active).

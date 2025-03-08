@@ -4,13 +4,14 @@ The **Advertisment with Animations** project is designed to create an animated a
 
 ## Specifications
 
-We have to design an advertisement with multiple animations. **7-segment displays** will be used to display the text, which consists of symbols from a custom alphabet. The advertisement will have several operating modes (minimum 4) that can be selected by the user via the FPGA board switches. The quartz oscillator built into the FPGA board will be used, and the clock signal will be split accordingly.
+In this project, I implemented an advertisement with multiple animations using **7-segment displays** to display text, which consists of symbols from a custom alphabet. The advertisement supports several operating modes (as listed in the User Manual) that can be selected by the user via the FPGA board switches. The quartz oscillator built into the FPGA board is used, and the clock signal is split accordingly.
 
-Examples of operating modes:
-- **Flowing**: Writing from right to left.
-- **Flickering**: Letters flicker on the display.
-- **Letter-by-letter display**: Each letter appears sequentially.
-- **Static mode**: Display a static message.
+### Implemented Modes:
+- **Blinking**: The text blinks on the display.
+- **Shift Right**: The text shifts from right to left across the display.
+- **Built from Top**: The text appears progressively from the top of the display.
+- **Symbols Loading**: The symbols load one by one on the display.
+- **Static Mode**: A static message is displayed without any animations.
 
 Because not all letters can be represented on a 7-segment display, a maximum alphabet will be created, and the messages will be composed of symbols from this alphabet. The message will be stored in memory for easy changes.
 
